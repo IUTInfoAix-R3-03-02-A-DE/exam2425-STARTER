@@ -1,4 +1,4 @@
-# R201 DOO : squelette de structure pour projet eclipse Java
+# Squelette de structure pour projet eclipse Java
 
 Noter :
 - le fichier caché <code>.gitignore</code>, qui liste les fichiers que Git NE doit PAS versionner. 
