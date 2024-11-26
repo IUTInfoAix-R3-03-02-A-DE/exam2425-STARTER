@@ -10,7 +10,7 @@ import java.util.TreeSet;
 // ......
 // ......
 
-public class Annuaire {
+public class DynamicAnnuaire {
   
   public static void main(String[] args) {
              lectureCommandeClavier();
