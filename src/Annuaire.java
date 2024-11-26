@@ -6,6 +6,7 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeSet;
+
 // ......
 // ......
 
@@ -21,7 +22,9 @@ public class Annuaire {
     System.out.println(" Tapez une commande : ");
     // récupérer la ligne saisie
     String commande = scanner.nextLine();
-    
+        
+    // ....
+    // ....
   
     if(commande.equals("C")) {
       System.out.println("Quel est le nom de la personne que vous souhaitez ajouter dans l'annuaire ?");
@@ -35,6 +38,9 @@ public class Annuaire {
     }
     
     // ....
-      // ....
+    // ....
     if(commande.equals("Merci")) {
       System.out.println("Fin des consultations et modifications sur l'annuaire");
+    }
+  }
+}
